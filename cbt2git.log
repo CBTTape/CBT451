@@ -1,0 +1,6 @@
+2023-08-06 04:09:02.168251 - Initialized conversion of CBT451
+2023-08-06 04:09:02.195388 - Received CBT.V505.FILE451.PDS from FILE451.XMI 
+2023-08-06 04:09:02.197770 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE451.PDS, moved to PDS/$$NOTE
+2023-08-06 04:09:02.198802 - Found @FILE451.txt (text/plain) in CBT.V505.FILE451.PDS, moved to PDS/@FILE451
+2023-08-06 04:09:02.199816 - Found CUTCLEAR.rexx (text/plain) in CBT.V505.FILE451.PDS, moved to PDS/CUTCLEAR
+2023-08-06 04:09:02.200739 - Found SUBCAN.rexx (text/plain) in CBT.V505.FILE451.PDS, moved to PDS/SUBCAN
